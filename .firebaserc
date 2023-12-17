@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "vgpdf-df4f0",
+    "staging": "vgpdf-df4f0"
+  },
+  "targets": {},
+  "etags": {}
+}
